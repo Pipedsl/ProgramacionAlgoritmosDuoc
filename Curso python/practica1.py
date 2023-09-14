@@ -1,0 +1,1 @@
+nombre_función(argumento)
